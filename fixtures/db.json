@@ -1,0 +1,106 @@
+{
+  "department": [
+    {
+      "name": "Genmyseo",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Kigglet"
+    },
+    {
+      "id": 3,
+      "name": "Utara"
+    },
+    {
+      "id": 4,
+      "name": "Primordia"
+    },
+    {
+      "id": 5,
+      "name": "Isologix"
+    },
+    {
+      "id": 6,
+      "name": "Pawnagra"
+    },
+    {
+      "id": 7,
+      "name": "Providcons"
+    },
+    {
+      "id": 8,
+      "name": "Uneeq"
+    },
+    {
+      "id": 9,
+      "name": "Zilidium"
+    },
+    {
+      "id": 10,
+      "name": "Lorem"
+    }
+  ],
+  "employee": [
+  {
+      "firstName": "Alvarium",
+      "lastName": "Carpentus",
+      "id": 1,
+      "departmentId": "1"
+    },
+    {
+      "firstName": "Torres",
+      "lastName": "Knight",
+      "id": 2,
+      "departmentId": "2"
+    },
+    {
+      "firstName": "Mccullough",
+      "lastName": "Donovan",
+      "id": 3,
+      "departmentId": "1"
+    },
+    {
+      "firstName": "Dee",
+      "lastName": "Goodman",
+      "id": 4,
+      "departmentId": "4"
+    },
+    {
+      "firstName": "Mcclure",
+      "lastName": "Delacruz",
+      "id": 5,
+      "departmentId": "5"
+    },
+    {
+      "firstName": "Meyer",
+      "lastName": "Hester",
+      "id": 6,
+      "departmentId": "6"
+    },
+    {
+      "firstName": "Mcdaniel",
+      "lastName": "Lane",
+      "id": 7,
+      "departmentId": "7"
+    },
+    {
+      "firstName": "Bonita",
+      "lastName": "Ashley",
+      "id": 8,
+      "departmentId": "8"
+    },
+    {
+      "firstName": "Chase",
+      "lastName": "Hunter",
+      "id": 9,
+      "departmentId": "9"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Rasmussen",
+      "id": 10,
+      "departmentId": "10"
+    }
+  ]
+}
